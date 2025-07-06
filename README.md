@@ -77,7 +77,7 @@ The goal is to showcase data transformation, modeling, and visualization skills 
 
 ## 📊 Visualizations
 
-
+#### KPI CARDS:
 ![Screenshot 2025-07-06 184413](https://github.com/user-attachments/assets/6beef743-e7ac-428b-869d-5e295e6712df)
 
 
