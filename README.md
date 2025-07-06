@@ -36,4 +36,20 @@ The goal is to showcase data transformation, modeling, and visualization skills 
 
 - Removed unnecessary columns; about_product, user_id, user_name, review_id, review_title, review_content, img_link, product_link
 
-- Replaced error column with null 
+- Replaced error column with null
+
+##  DAX Measures Used:
+
+- Total Products = DISTINCTCOUNT('amazon'[product_id])
+
+- Average Rating = AVERAGE('amazon'[rating])
+
+- Total Reviews = SUM('amazon'[rating_count])
+
+- Total Rating = SUM('amazon'[rating])
+
+- Average Price = AVERAGE('amazon'[discounted_price])
+
+- Average Discount (%) = AVERAGE('amazon'[discount_percentage]) * 100
+
+- Total Rating = SUM('amazon'[rating])
