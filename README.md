@@ -82,6 +82,8 @@ The goal is to showcase data transformation, modeling, and visualization skills 
 
 #### Bar Chart:
 
+![Screenshot 2025-07-06 193146](https://github.com/user-attachments/assets/61594f23-3d32-46dd-b5e6-88253128b78c)
+
 
 
 
