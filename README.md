@@ -81,8 +81,14 @@ The goal is to showcase data transformation, modeling, and visualization skills 
 ![Screenshot 2025-07-06 184413](https://github.com/user-attachments/assets/6beef743-e7ac-428b-869d-5e295e6712df)
 
 #### Bar Chart:
+- Top-rated products by rating count
 
 ![Screenshot 2025-07-06 193146](https://github.com/user-attachments/assets/61594f23-3d32-46dd-b5e6-88253128b78c)
+
+#### Pie Chart:
+
+- Product distribution by Category_Level_1
+
 
 
 
