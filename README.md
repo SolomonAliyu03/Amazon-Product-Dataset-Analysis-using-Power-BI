@@ -104,6 +104,33 @@ ount of product_id by category_level_1.csv…]()
 ![Screenshot 2025-07-06 200840](https://github.com/user-attachments/assets/b48a5152-b9ab-46de-b549-bb1db4e54ad7)
 
 
+## Tools Used:
+
+- Power BI Desktop
+
+- Power Query Editor
+
+- DAX (Data Analysis Expressions)
+
+
+ ## File Structure
+
+ amazon-product-analysis-powerbi/
+├── README.md
+├── dax-measures.md
+├── data-cleaning-steps.md
+├── Amazon case study.xlsx
+├── PowerBI_Report.pbix
+├── screenshots/
+    ├── dashboard-overview.png
+    ├── kpi-cards.png
+    └── price-vs-rating.png
+
+
+## Author
+SOLOMON BABATUNDE ALIYU
+
+
 
 
 
