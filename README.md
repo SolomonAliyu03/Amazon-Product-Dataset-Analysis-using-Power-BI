@@ -15,3 +15,21 @@ The goal is to showcase data transformation, modeling, and visualization skills 
 - DAX measures for KPIs like average rating, price, and discount
 
 - Visuals: KPI Cards, Pie Charts, Bar Charts
+
+## Dataset
+
+- File: Amazon case study.xlsx
+- Columns; product_id, product_name, category discounted_price, actual_price, discount_percentage, rating, rating_count, about_product, user_id, user_name, review_id, review_title, review_content, img_link, product_link
+
+##  Data Cleaning (Power Query)
+
+- Loaded the amazon case study file into the power query, then click on transform data ;
+
+- Split Category column by delimiter | into multiple category levels;
+    - Category_Level_1, Category_Level_2, Category_Level_3, Category_Level_4
+ 
+- Changed data types for:
+
+     - discounted_price, actual_price →  Fixed Decimal Number
+     - discount_percentage, rating → Decimal Number
+     - rating_count → Whole Number
