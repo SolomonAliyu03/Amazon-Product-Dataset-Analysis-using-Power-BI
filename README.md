@@ -53,3 +53,23 @@ The goal is to showcase data transformation, modeling, and visualization skills 
 - Average Discount (%) = AVERAGE('amazon'[discount_percentage]) * 100
 
 - Total Rating = SUM('amazon'[rating])
+
+#### Step-by-Step: Calculating Total Products Using DAX
+
+    - Open your Power BI file (.pbix)
+
+    - In the Fields pane, select your dataset (e.g. amazon)
+
+    - Click on the Modeling tab from the top ribbon
+
+    - Click New Measure
+
+    - In the formula bar that appears, type: Total Products = DISTINCTCOUNT('amazon'[product_id])
+
+    - Press Enter
+
+    - Go to your report view and insert a Card visual
+
+    - Drag the new measure Total Products into the Card visual
+
+    ✅ You now have a KPI card that shows the total number of distinct products in the dataset!
