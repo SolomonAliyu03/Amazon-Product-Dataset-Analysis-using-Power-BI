@@ -1,4 +1,4 @@
-# Amazon-Product-Dataset-Analysis-using-Power-BI
+[Count of product_id by category_level_1.csv](https://github.com/user-attachments/files/21090112/Count.of.product_id.by.category_level_1.csv)# Amazon-Product-Dataset-Analysis-using-Power-BI
 
 ## Project Overview
 
@@ -88,6 +88,22 @@ The goal is to showcase data transformation, modeling, and visualization skills 
 #### Pie Chart:
 
 - Product distribution by Category_Level_1
+
+[Uploading Ccategory_level_1,Count of product_id
+Electronics,526
+Computers&Accessories,453
+Home&Kitchen,448
+OfficeProducts,31
+HomeImprovement,2
+MusicalInstruments,2
+Car&Motorbike,1
+Health&PersonalCare,1
+Toys&Games,1
+ount of product_id by category_level_1.csv…]()
+
+![Screenshot 2025-07-06 200840](https://github.com/user-attachments/assets/b48a5152-b9ab-46de-b549-bb1db4e54ad7)
+
+
 
 
 
