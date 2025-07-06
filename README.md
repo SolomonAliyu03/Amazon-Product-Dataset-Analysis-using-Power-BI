@@ -73,3 +73,10 @@ The goal is to showcase data transformation, modeling, and visualization skills 
     - Drag the new measure Total Products into the Card visual
 
     ✅ You now have a KPI card that shows the total number of distinct products in the dataset!
+
+
+## 📊 Visualizations
+
+
+
+
