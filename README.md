@@ -35,3 +35,5 @@ The goal is to showcase data transformation, modeling, and visualization skills 
      - rating_count → Whole Number
 
 - Removed unnecessary columns; about_product, user_id, user_name, review_id, review_title, review_content, img_link, product_link
+
+- Replaced error column with null 
